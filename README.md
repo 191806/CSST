@@ -44,8 +44,7 @@ dwarf_feh.dwarf_feh(u,g,i,error)\
 giant_feh.giant_feh(u,g,i,error)\
 Shi
 Rui
-feng
-                
+feng                
     Args:
         u: array-like, shape (n, )
            CSST u band
