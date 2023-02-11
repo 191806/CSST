@@ -46,15 +46,15 @@ Shi
 Rui
 feng
                 
-Args:
-    u: array-like, shape (n, )
+    Args:
+        u: array-like, shape (n, )
            CSST u band
         
-    g: array-like, shape (n, )
+        g: array-like, shape (n, )
            CSST g band
            
-    i: array-like, shape (n, )
+        i: array-like, shape (n, )
            CSST i band
            
-    error: float
+        error: float
            color error
