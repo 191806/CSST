@@ -27,7 +27,7 @@ xdata,ydata=g-i,u-g\
 dwarf.dwarf_feh(u,g,i,error)\
 
 # API
-dwarf_feh.dwarf_feh(u,g,i,error)
+dwarf_feh.dwarf_feh(u,g,i,error)\
     Args:
         u: array-like, shape (n, )
            CSST u band
