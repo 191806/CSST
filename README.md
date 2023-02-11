@@ -40,3 +40,16 @@ dwarf_feh.dwarf_feh(u,g,i,error)\
            
         error: float
            color error 
+# Shi
+giant_feh.giant_feh(u,g,i,error)\
+    Shi
+        Rui
+        Args:
+            u: array-like, shape (n, )
+                CSST u band
+            g: array-like, shape (n, )
+                CSST g band
+            i: array-like, shape (n, )
+                CSST i band
+            error: float
+                color error
