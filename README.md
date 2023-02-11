@@ -43,9 +43,8 @@ dwarf_feh.dwarf_feh(u,g,i,error)\
 # Shi
 giant_feh.giant_feh(u,g,i,error)\
     Shi
-        Args:
-            u: array-like, shape (n, )
-                CSST u band
+        Rui
+            feng
                 
             g: array-like, shape (n, )
                 CSST g band
