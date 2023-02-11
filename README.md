@@ -42,9 +42,7 @@ dwarf_feh.dwarf_feh(u,g,i,error)\
            color error 
 # Shi
 giant_feh.giant_feh(u,g,i,error)\
-Shi
-Rui
-feng  
+Shi 
 
     Args:
         u: array-like, shape (n, )
