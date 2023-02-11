@@ -16,7 +16,7 @@ If a file (dwarf_feh.csv) is given, u, g, i magnitudes are contained in this fil
 
 py\
 import pandas as pd\
-error=(0.01**2+0.01**2)**0.5\   
+error=0.01\
 
 data=pd.read_csv('giant_feh.csv')\
 u0=data.loc[:,['u']].values\
@@ -43,13 +43,15 @@ dwarf_feh.dwarf_feh(u,g,i,error)\
 # Shi
 giant_feh.giant_feh(u,g,i,error)\
     Shi
-        Rui
         Args:
             u: array-like, shape (n, )
                 CSST u band
+                
             g: array-like, shape (n, )
                 CSST g band
+
             i: array-like, shape (n, )
                 CSST i band
+                
             error: float
                 color error
